@@ -1,0 +1,9 @@
+Ever wonder which football team is closest to a given place in the US, or which team people in St. Louis should root for now that the Rams left?
+This gif is made to answer these questions and more!
+
+Notes on methodology:
+- If a team played home games in a given year, they get their color on the map
+- If they were home in multiple stadiums, but one more than others, use the one with more
+- If they were home in multiple staduims for similar number of games, take a point in between
+- If two teams had the same home stadium, show as stripes in the joint area
+- Team color was OP's choice, although effort was made to pick an official color and be consistent year to year
